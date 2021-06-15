@@ -1,0 +1,2 @@
+# Knowledge_Framework
+The repository is for my staged knowledge framework. Through markdown, I record important knowledge points and some of my own understanding of knowledge, so that I can review and deepen my understanding of the idea in the future. I will be happy if the knowledge can help you solve some problems. The contents mainly composed of the following parts: Machine Learning, Deep Learning, C++, Python (including tensorflow and pytorch).
