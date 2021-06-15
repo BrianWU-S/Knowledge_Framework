@@ -12,7 +12,7 @@ Scott Meyers's famous C++ book: **"Effective C++: 55 Specific Ways to Improve Yo
 
 # Other things waiting to be updated:
 * Exceptional C++ Style: 40 New Engineering Puzzles, Programming Problems and Solutions (C++ in Depth): Written by Herb Sutter. I've read it in year 2020
-* More Effective C++: 35 New Ways to Improve Your Programs and Designs. I've read it in year 2019.
-* Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library. I've read it in year 2019.
-* Python for Data Analysis: Data Wrangling with Pandas, NumPy and IPython
+* More Effective C++: 35 New Ways to Improve Your Programs and Designs: Written by Scott Meyers. I've read it in year 2019.
+* Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library: Written by Scott Meyers. I've read it in year 2019.
+* Python for Data Analysis: Data Wrangling with Pandas, NumPy and IPython: Written by Wes McKinney
  
